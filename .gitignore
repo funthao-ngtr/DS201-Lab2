@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pth
+*.pt
+VinaFood21/
+data/
